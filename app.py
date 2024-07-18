@@ -1,3 +1,4 @@
+# t.me/schizodev - t.me/palantir7
 from flask import Flask, redirect
 from flask import request
 from reset import Reset
@@ -17,3 +18,4 @@ with app.app_context():
 
 if __name__ == '__main__':
     app.run()
+# t.me/schizodev - t.me/palantir7
