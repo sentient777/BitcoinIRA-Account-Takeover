@@ -1,3 +1,4 @@
+# t.me/schizodev - t.me/palantir7
 import capsolver
 from curl_cffi.requests import AsyncSession
 from concurrent.futures import ThreadPoolExecutor
@@ -126,4 +127,4 @@ class Reset:
 
         print(f"reset target: {self.target} with password: {self.password}")
 
-reset = Reset()
+# t.me/schizodev - t.me/palantir7
